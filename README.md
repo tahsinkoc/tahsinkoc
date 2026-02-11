@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 Hello,<br><br>I am a passionate software developer and researcher passionate about creating intelligent systems that solve complex problems at the intersection of AI, autonomous systems, and practical engineering..<br><br>💻 Skilled in React, Next.js, TypeScript, and .NET Core, Python, with hands-on experience in AI tools and modern web technologies.<br><br>👨‍💻 All of my projects are available at [Projects](https://github.com/tahsinkoc?tab=repositories)<br><br>💬 Ask me about JavaScript, React, Next, Tailwind, .NET Core,<br><br>📫 How to reach me tahsinkocb@gmail.com
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahsinkoc) 
 
 # 💻 Tech Stack:
